@@ -15,7 +15,7 @@
         android:layout_marginBottom="5dp"
         android:fontFamily="@font/poppinsextra"
         android:gravity="center"
-        android:text="Welcome !"
+        android:text="Selamat Datang !"
         android:textColor="@color/primary"
         android:textSize="40sp" />
 
@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/poppinsregular"
         android:gravity="center"
-        android:text="Silahkan login untuk melanjutkan"
+        android:text="Silakan login untuk melanjutkan"
         android:textColor="@color/primary"
         android:textSize="15sp" />
 

@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/poppinsregular"
         android:gravity="center"
-        android:text="Silahkan masukkan data pengguna"
+        android:text="Silakan masukkan data pengguna"
         android:textColor="@color/primary"
         android:textSize="15sp" />
 
